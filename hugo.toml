@@ -1,0 +1,28 @@
+# init settings
+#baseURL = 'https://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+
+[module]
+    [[module.imports]]
+        path = 'github.com/lordmathis/hugo-theme-nightfall'
+
+
+[params]
+user = "hexasco"
+hostname = "christopher"
+openLinksInNewTab = true
+displayDateFormat = "02.01.2006"
+
+    [params.author]
+        name = "hexasco"
+        avatar = "/mash-circle.png"
+        avatarSize = "size-m"
+        avatarFirst = true
+
+
+[menu]
+    [[menu.header]]
+        name = "posts"
+        weight = 0
+        url = "/posts"
