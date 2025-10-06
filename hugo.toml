@@ -1,5 +1,5 @@
 # init settings
-#baseURL = 'https://example.org/'
+baseURL = "https://hexasco.org/"
 #languageCode = 'en-us'
 #title = 'My New Hugo Site'
 
