@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://hexasco.org/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://hexasco.org/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Oct 2025 13:49:16 +0900</lastBuildDate>
-    <atom:link href="https://hexasco.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hexasco.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hexasco seeks power</title>
       <link>https://hexasco.org/posts/first_post/</link>
